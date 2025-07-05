@@ -90,7 +90,7 @@ int main(){
 // {
 //     vector<int> arr = {25, 46, 28, 49, 24};
 //     int n = 5;
-//     int m = 4;
+//     int m = 3;
 //     int ans = findPages(arr, n, m);
 //     cout << "The answer is: " << ans << "\n";
 //     return 0;
