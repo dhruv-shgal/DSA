@@ -44,7 +44,7 @@ int main(){
 
 //
 
-
+//striver's method
 
 // #include <bits/stdc++.h>
 // using namespace std;
